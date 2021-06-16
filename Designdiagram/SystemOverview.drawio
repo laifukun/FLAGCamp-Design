@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T04:56:47.888Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="afOVcHbmYmZ0LiM9MuIO" version="14.7.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-16T04:57:54.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="yJ7j3Tn6P8U1T2_57mke" version="14.7.7" type="github" pages="4">
   <diagram id="kNzsvjjbeycu3PSovNkS" name="Page-1">
-    <mxGraphModel dx="1608" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,8 +258,8 @@
         <mxCell id="B7q8sF04wc4RiD9ppFUX-7" value="save" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="1320" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0vp1MS_QijiNhVrhRR7S-3" value="save : list of POI, start location, end location, user ID =&amp;gt; success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1325" width="360" height="20" as="geometry" />
+        <mxCell id="0vp1MS_QijiNhVrhRR7S-3" value="save : list of POI, start location, end location, user ID =&amp;gt; success message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1325" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B7q8sF04wc4RiD9ppFUX-8" value="get" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="1360" width="40" height="20" as="geometry" />
@@ -269,6 +269,9 @@
         </mxCell>
         <mxCell id="B7q8sF04wc4RiD9ppFUX-9" value="delete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="1400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0vp1MS_QijiNhVrhRR7S-5" value="delete: route id =&amp;gt; success message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1400" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
