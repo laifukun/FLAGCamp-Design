@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T05:08:43.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="dAyLARjIsOFm4bzEjv4e" version="14.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-16T05:09:06.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="qZPl2BEgHRN4MKRUdiX1" version="14.7.7" type="github" pages="2">
   <diagram id="kNzsvjjbeycu3PSovNkS" name="Page-1">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,22 +415,6 @@
         <mxCell id="PArUXnBDU9vjnv2JVuY4-1" value="city_id =&amp;gt; list of POIid and image url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="64hU7iYNRlZ3EdSoB02A-1">
           <mxGeometry x="25" y="280" width="340" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="vIomOW-KXKCeowCdKZjt" name="Page-3">
-    <mxGraphModel dx="1368" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="p6OCDpKVyRzsIYxjgI_i-0" />
-        <mxCell id="p6OCDpKVyRzsIYxjgI_i-1" parent="p6OCDpKVyRzsIYxjgI_i-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="4t7Tb-zq47v6putT00Ma" name="Page-2">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="6lm8RzmNJODxTCO4I42m-0" />
-        <mxCell id="6lm8RzmNJODxTCO4I42m-1" parent="6lm8RzmNJODxTCO4I42m-0" />
       </root>
     </mxGraphModel>
   </diagram>
