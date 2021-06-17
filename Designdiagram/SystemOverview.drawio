@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T01:50:07.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="KzhFbeCOq_jsFAjPEgYB" version="14.7.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-17T01:50:46.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="p4JAzlni9knC66sJR7cG" version="14.7.9" type="github" pages="6">
   <diagram id="kNzsvjjbeycu3PSovNkS" name="Page-1">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aDnz6DyPfGt7BgsXZk0M" name="POI Service">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="64hU7iYNRlZ3EdSoB02A-0" />
         <mxCell id="64hU7iYNRlZ3EdSoB02A-1" parent="64hU7iYNRlZ3EdSoB02A-0" />
@@ -457,17 +457,11 @@
         <mxCell id="EXQL1gR0xkv82Jup0fWV-25" value="City_ID" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=13;" parent="64hU7iYNRlZ3EdSoB02A-1" connectable="0" vertex="1">
           <mxGeometry x="807.4999999999998" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="IoPdFhP9FQJ9HlmD7JvZ-7" value="Can we separate POI names and city icon in two methods?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" parent="64hU7iYNRlZ3EdSoB02A-1" vertex="1">
-          <mxGeometry x="980" y="50" width="230" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tE_aNtTFDzFrv20FOM7W-0" value="我对database不太了解 这里的POI_ROW 是什么含义" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" parent="64hU7iYNRlZ3EdSoB02A-1" vertex="1">
-          <mxGeometry x="970" y="160" width="230" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="rGfR4AdDyEe2Iigv9TVd" name="User Service">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="MIxLwpFW9462HnOpKlqC-0" />
         <mxCell id="MIxLwpFW9462HnOpKlqC-1" parent="MIxLwpFW9462HnOpKlqC-0" />
@@ -720,7 +714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dK-Zco1nBGAF2i0gNq6c" name="Route Service">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="yCBDpgSbteYMZxlSBETb-0" />
         <mxCell id="yCBDpgSbteYMZxlSBETb-1" parent="yCBDpgSbteYMZxlSBETb-0" />
